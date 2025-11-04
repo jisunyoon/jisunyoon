@@ -8,7 +8,7 @@
 <p>I love to learn new things. 😍</p>
 <ul>
   <li>👶 Programmer</li>
-  <li>💻 usually using HTML, CSS, Javascript language for web-programmming</li>
+  <li>💻 usually using HTML, CSS(SASS), tailwind, Javascript, React, Typescript language for web-programmming</li>
 </ul>
 
 <br>
