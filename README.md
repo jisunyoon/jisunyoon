@@ -2,58 +2,61 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Jisun's%20GitHub%20%F0%9F%91%8B&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
 </h1>
 
-##### Hello 👋 I'm Web Frontend Developer
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjisunyoon0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jisunyoon)
+## 👋 Web Frontend Developer
 
-<p>I love to learn new things. 😍</p>
-<ul>
-  <li>👶 Programmer</li>
-  <li>💻 usually using HTML, CSS(SASS), tailwind, Javascript, React, Typescript language for web-programmming</li>
-</ul>
+프론트엔드에서 **UI 구조화, 상태 흐름, 유지보수성**에 관심이 많습니다.  
+React · TypeScript 기반의 웹 서비스를 만들며, 디자인 시스템과 컴포넌트 단위 개발을 중심으로 작업하고 있습니다.
 
-<br>
+---
 
-<h2 align="center">:hammer_and_pick: Tech Stack </h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-</div>
+## ⚒️ Tech Stack
 
-<br>
+### Frontend
+- HTML5
+- CSS3 (SCSS)
+- JavaScript (ES6+)
+- React
+- TypeScript
 
-<h2 align="center">:books: Studying </h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-</div>
+### Styling
+- Tailwind CSS
+- Emotion (CSS-in-JS)
 
-<br>
+### State Management
+- Zustand
 
-<h2 align="center">:clipboard: Most Used Languages</h2>
-<div align=center>
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisunyoon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)      
-</div>
+### UI / Design System
+- Storybook
+- Design Token 기반 스타일 설계
+- 재사용 가능한 컴포넌트 설계
 
-<br>
+### Tooling
+- Vite
+- pnpm
+- ESLint
+- Prettier
 
-<h2 align="center">:chart_with_upwards_trend:   Git - This Year Statistics</h2>
-<div align=center>
-        
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisunyoon&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=24)
-</div>
+### Accessibility & Quality
+- 시맨틱 마크업
+- aria-* 속성을 활용한 접근성 개선
+- 웹 접근성을 고려한 UI 수정 경험
 
-<br>
+---
 
-<h2 align="center">:rainbow: Contact Me </h2>
-<div align="center">
-  <a href="mailto:yjsun0123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yjsun0123@gmail.com"/></a>
-</div>
+## 📚 Currently Working On
+- React + TypeScript 기반 개인 프로젝트
+- Emotion을 활용한 컴포넌트 스타일링
+- Storybook을 통한 UI 컴포넌트 문서화
+- Zustand 기반 상태 관리 구조 설계
+
+---
+
+## 📈 GitHub Stats
+<!-- GitHub Stats / Top Languages 위젯 영역 -->
+
+---
+
+## 🌈 Contact
+- GitHub: https://github.com/jisunyoon  
+- Portfolio: https://yjsun-portfolio.netlify.app/  
+- Email: yjsun0123@naver.com
